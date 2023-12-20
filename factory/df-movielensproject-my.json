@@ -1,0 +1,9 @@
+{
+	"name": "df-movielensproject-my",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c4c26cb-6b26-46c4-9e1b-f2991825b1b9",
+		"tenantId": "bcf8a806-1514-470e-b2e4-d71c857a6429"
+	}
+}
